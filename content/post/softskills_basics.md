@@ -16,7 +16,7 @@ You have to realize that, whatever your level or experience, you hold a certain 
 
 So you’ve got to help them. The thing is, they are working very hard to keep up their appearance of being important and making decisions, but in reality, they don’t, and can’t, know what they’re talking about, as you‘re the one who creates. Whether they admit it or not, they need you.
 
-<img src="/assets/matrix.jpg" alt="Sociopaths, clueless and losers" title="Sociopaths, clueless and losers" class="center" style="width: 80%;" />
+<img src="/blog/assets/matrix.jpg" alt="Sociopaths, clueless and losers" title="Sociopaths, clueless and losers" class="center" style="width: 80%;" />
 
 Next to your company, you also have a responsibility to yourself to speak up. You have to protect yourself, and cover your proverbial ass. While it sounds heroic to work nights and weekends to get the release done, it’s really no fun. Or rather, it’s no fun when it is forced upon you. If you want to do it then that’s fine, but make sure it’s on your terms.
 

@@ -8,7 +8,7 @@ One of the things that defines a manager for me is his style of management. I’
 
 The thing is that being friendly doesn’t always gets results. Just think about that ruthless, nasty manager that always got things done (I’m sure someone pops into your mind right now), and the gentle guy or girl who worked very hard and got fired or marginalised in the end. In the world we live, it seems that it somehow pays to be an asshole, to go head-first into arguments and go through your career kicking and screaming, usually at others.
 
-<a href="http://gapingvoid.com/2004/06/27/company-hierarchy/"><img src="/assets/hughMcLeodCompanyHierarchy.jpg" alt="Sociopaths, clueless and losers" title="Sociopaths, clueless and losers" class="center"/></a>
+<a href="http://gapingvoid.com/2004/06/27/company-hierarchy/"><img src="/blog/assets/hughMcLeodCompanyHierarchy.jpg" alt="Sociopaths, clueless and losers" title="Sociopaths, clueless and losers" class="center"/></a>
 
 Now to just call all these people assholes is also overreacting a bit. They often simply have a skill that many others lack, which is the ability to confront others. For many, this is a very difficult skill to master. One of the reasons is that empathy gets in the way. A person who doesn’t feel empathy however has no such problems, and will happily charge through life unhindered by the negative effects of conflict. And they’ll get things done. Worse yet, they’ll even get a steady following of people, people who want to avoid conflict so much they prefer to follow and say yes whenever called upon, just to get out of the firing line. So for an outsider, it seems obvious; be confrontational, disregard others and get things done.
 
@@ -26,7 +26,7 @@ One of the big points Carnegie makes is that we are so preoccupied with what *we
 
 If you however do take the effort to consider why they would want to help you, give them what they need, and thank and praise them when they act in the way you want them to, you get people to actually want to do what you want. Better yet, they will do it with much more energy and effort than if you would have ordered them to do it, or fought them about it. That does mean that you have to make compromises sometimes, but is what you want really so much more important than what they want?
 
-<a href="http://www.dalecarnegiewaynl.com/2013/02/20/dale-carnegie-wins-friends-in-a-digital-age/"><img src="/assets/CarnegiePrinciple5.jpg" alt="Sociopaths, clueless and losers" title="Sociopaths, clueless and losers" class="center"/></a>
+<a href="http://www.dalecarnegiewaynl.com/2013/02/20/dale-carnegie-wins-friends-in-a-digital-age/"><img src="/blog/assets/CarnegiePrinciple5.jpg" alt="Sociopaths, clueless and losers" title="Sociopaths, clueless and losers" class="center"/></a>
 
 So I changed a number of things in my approach. For starters, instead of spending my time thinking of what I want to get done and how to get there, I now spend most of my time thinking of the people involved and what they want. Do I know of a reason for them to want to do what I want them to do? If not, how can I find out? If I know a reason, what is it and can I give it to them, or will pointing the benefit out be enough? If not, is there something else I can give them? Or does what I want actually not make sense at all from their point of view? How can I change what I want to be in line with those involved?
 

@@ -1,4 +1,5 @@
 deploy:
+	rm -rf public
 	./hugo
 	git add -A
 	git commit -m "Rebuilding site"
