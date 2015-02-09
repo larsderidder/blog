@@ -5,8 +5,8 @@
 
     "builddrafts": false,
 
-    "baseurl": "http://todayispotato.github.io/blog",
     "canonifyurls": true,
+    "baseurl": "http://todayispotato.github.io/blog",
     "permalinks": {
         "post": ":year/:month/:day/:title/",
         "fixed": ":title/"
