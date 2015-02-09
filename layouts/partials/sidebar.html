@@ -1,0 +1,29 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+      <p>The musings of a software engineer turned product manager turned software engineering manager.</p>
+  </div>
+
+  <nav class="sidebar-nav">
+      <a class="sidebar-nav-item {{ if eq .Url "/" }} active {{ end }}" href="/"><span class="fa fa-home"></span>&nbsp; Home</a>
+      <a class="sidebar-nav-item {{ if eq .Url "post" }} active {{ end }}" href="/post"><span class="fa fa-list"></span>&nbsp; Posts</a>
+
+      {{ $thisperma := .Permalink }}
+      {{ range .Site.Recent.ByWeight }}
+          {{ if isset .Params "sidebar" }}
+              <a class="sidebar-nav-item {{ if eq .Permalink $thisperma }} active {{ end }}" href="{{ .Permalink }}"><span class="{{ .Params.icon }}"></span>&nbsp; {{ .Title }}</a>
+          {{ end }}
+      {{ end }}
+
+      <a class="sidebar-nav-item" href="/index.xml" target="_blank"><span class="fa fa-rss"></span>&nbsp; RSS feed</a>
+      <a class="sidebar-nav-item" href="{{ .Site.Params.Github.Url }}" target="_blank"><span class="fa fa-github"></span>&nbsp; GitHub project</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>&copy; {{ .Site.LastChange.Year }} Lars de Ridder. All rights reserved.</p>
+  </div>
+</div>

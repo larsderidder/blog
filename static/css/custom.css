@@ -1,0 +1,12 @@
+.center {
+	margin: 0 auto;
+}
+
+.icons a {
+    margin-left: 1em;
+    color: #515151;
+    font-size: 90%;
+}
+.icons a:hover {
+    color: #268bd2;
+}

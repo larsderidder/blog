@@ -1,0 +1,25 @@
+{
+    "contentdir": "content",
+    "layoutdir": "layouts",
+    "publishdir": "public",
+
+    "builddrafts": false,
+
+    "baseurl": "http://todayispotato.github.io/blog",
+    "canonifyurls": true,
+    "permalinks": {
+        "post": ":year/:month/:day/:title/",
+        "fixed": ":title/"
+    },
+
+    "params": {
+        "Title": "Something or other",
+        "Tagline": "",
+        "Author": "Lars de Ridder",
+        "DateForm": "Jan 2 2006",
+        "Github": {
+            "Url": "https://github.com/todayispotato/blog",
+            "Head": "master"
+        }
+    }
+}
