@@ -10,11 +10,11 @@ This post is aimed at the basics. I’m planning to go more in depth about other
 
 ## Speak up
 
-We engineers are a timid bunch. Put us behind a computer and we work magic, but put us in a room full of people, and we quietly nod when the project managers ask us if we can deliver three new features and an API by next week.
+We engineers are a timid bunch. Put us behind a computer and we work magic, but put us in a room full of people, and we quietly nod when the project managers ask us if we can deliver three new features by next week.
 
 You have to realize that, whatever your level or experience, you hold a certain power, far greater than those fast-talking executives. That is the power of creation. You are able to make things real, to build things and change the course of a company (for better or worse) with every line of code you write. Now I’m sure all those other people look very impressive, but when it comes down to it, they’re all grasping in the dark about a subject you are intimately familiar with: your code. Whether they admit it or not, they need your help.
 
-<img src="/blog/assets/matrix.jpg" alt="Sociopaths, clueless and losers" title="Sociopaths, clueless and losers" class="center" style="width: 80%;" />
+<img src="/assets/matrix.jpg" alt="You are the One" title="You are the One" class="center" style="width: 60%;" />
 
 You also have a responsibility to yourself to speak up. You have to protect yourself, and cover your proverbial ass. While it sounds heroic to work nights and weekends to get the release done in time, it’s really no fun for anyone involved. Or rather, it’s no fun when it is forced upon you. If you want to do it then that’s fine, but make sure it’s on your own terms.
 
@@ -28,7 +28,9 @@ A small footnote: If you do speak up and get barked at, it’s probably time to 
 
 I considered writing some header about using your head instead of your heart, but that sounded a little too cheesy.
 
-Engineers often feel very strongly about their opinions and preferences. So strongly, that arguments have a tendency to become emotional. Never let this happen, as there’s nothing emotional about these arguments. Emotional arguments only make sense with people you have an actual emotional relationship with, such as a girlfriend or a cheeky parakeet. Not with a colleague.
+<img src="/assets/logicvsemotion.jpg" alt="Logic vs emotion" class="center" style="width: 50%;" />
+
+Engineers often feel very strongly about their opinions and preferences. So strongly, that arguments have a tendency to become emotional. Never let this happen, as there’s nothing emotional about these arguments. Emotional arguments only make sense with people you have an actual emotional relationship with, such as a girlfriend or (if you're like me) your cat. Not with a colleague.
 
 Enter every argument with the idea that you are quite possibly wrong. Depending on the other person, this might even be quite likely. So don’t get married to your opinion, and distance yourself from it mentally. Changing your mind should be a cheap operation.
 
